@@ -1,1 +1,1 @@
-# simple-greate-function
+# simple-greet-function
